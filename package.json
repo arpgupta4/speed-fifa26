@@ -1,0 +1,22 @@
+{
+  "name": "speed-fifa26",
+  "version": "1.0.0",
+  "description": "This is a backend code repository for providing apis for Speed hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpgupta4/speed-fifa26.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpgupta4/speed-fifa26/issues"
+  },
+  "homepage": "https://github.com/arpgupta4/speed-fifa26#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
